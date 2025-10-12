@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "window_size": "1400x900",
+  "window_position": "center",
+  "default_view": "list",
+  "poster_quality": "high",
+  "auto_backup": true,
+  "backup_frequency_days": 7,
+  "search_fuzzy": true,
+  "auto_fetch_metadata": true,
+  "default_sort": "title",
+  "items_per_page": 50,
+  "recent_searches": []
+}

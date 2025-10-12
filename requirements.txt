@@ -1,0 +1,13 @@
+# Movie Collection Manager - PySide6 Version Dependencies
+# Install with: pip install -r requirements_pyside6.txt
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Image handling
+pillow>=10.0.0
+
+# HTTP requests and web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
